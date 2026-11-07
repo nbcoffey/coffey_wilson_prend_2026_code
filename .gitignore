@@ -25,3 +25,5 @@ __pycache__/
 data_tmp
 tmp_file.txt
 params_tmp.p
+model/build_and_run/extend_runs.py
+model/main_scripts/build_domain_funcs.py
