@@ -1,0 +1,10 @@
+# Packages
+ &PACKAGES
+ useDiagnostics=.TRUE.,
+ useRBCS=.TRUE.,
+ useOBCS=.FALSE., 
+ useKPP=.TRUE.,
+ useLayers=.TRUE.,
+ useBBL=.FALSE.,
+ useGMREDI=.FALSE.,
+ /

@@ -1,0 +1,3 @@
+source_dir: /scratch/groups/earlew/nbcoffey/research/modeling/MITgcm/experiments/shelf_drake500_ramp2ridge500_nocontinent_noise100_noMR_H3km_v02_noaabw_fixZR_80Nz_rerun
+Branch_iter: 0006442492
+Time_copied: 2026-05-14-10:58

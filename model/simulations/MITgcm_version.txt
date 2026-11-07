@@ -1,0 +1,14 @@
+MITgcm version: checkpoint67g (mid-2019 release)
+Source: https://github.com/MITgcm/MITgcm
+Retrieve via: git checkout checkpoint67g
+Commit hash: 29a542dcabc8c4398769a8f5e8ee2206816c8dd9
+
+Build: compiled on Stanford Sherlock with option file
+  build_and_run/darwin_amd64_gfortran_v2
+
+Grid (from results STDOUT.0000):
+  Nx=400, Ny=250, Nr=80
+  MPI decomposition nPx=25 x nPy=10 = 250 processes; tile sNx=16, sNy=25
+
+Note: run with configuration headers only (no modified Fortran source).
+Identical checkpoint across all paper experiments.

@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+MITgcmutils
+gsw
+opensimplex
+xarray
+xgcm
+xmitgcm

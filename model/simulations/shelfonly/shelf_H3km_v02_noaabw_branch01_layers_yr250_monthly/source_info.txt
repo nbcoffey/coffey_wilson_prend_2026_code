@@ -1,0 +1,3 @@
+source_dir: /oak/stanford/groups/earlew/nbcoffey/research/modeling/MITgcm/experiments/shelf_H3km_v02_noaabw
+Branch_iter: 0008044898
+Time_copied: 2026-05-20-15:01
