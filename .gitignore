@@ -27,3 +27,5 @@ tmp_file.txt
 params_tmp.p
 model/build_and_run/extend_runs.py
 model/main_scripts/build_domain_funcs.py
+make_figs/wind_stress_anomaly_with_bathymetry_fronts_and_DOT.png
+third_party_data/dot/*.nc
